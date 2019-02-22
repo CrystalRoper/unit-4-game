@@ -1,0 +1,32 @@
+body {
+background-image: url(../images/textured.png);
+}
+
+#main {
+background-color: white;
+margin: auto;    
+}
+
+#crystal1 {
+background-image: url(../images/crystal1.png);
+width: 150px;
+height: 150px;
+}
+
+#crystal2 {
+background-image: url(../images/crystal2.png);
+width: 150px;
+height: 150px;
+}
+
+#crystal3 {
+background-image: url(../images/crystal3.png);
+width: 150px;
+height: 150px;
+}
+
+#crystal4 {
+background-image: url(../images/crystal4.png);
+width: 150px;
+height: 150px;
+}
